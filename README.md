@@ -1,7 +1,7 @@
 -----
 
 <p align = "center">
-<img src="https://cdn.discordapp.com/attachments/857335828011155490/858401080710922260/image0.gif">
+<img src="https://thumbs.gfycat.com/AngryBrokenKodiakbear-max-1mb.gif">
 </p>
 
 -----
@@ -12,7 +12,7 @@
   <br>
   <br>
   <br>
-  <img src="https://zupimages.net/up/21/22/oe6x.gif">
+  <img src="https://cdn.discordapp.com/attachments/860287494260391976/860301157363351552/standard_1.gif">
   <br>
   <br>
   <br>
@@ -23,9 +23,9 @@
   <br>
   <a href="https://www.youtube.com/channel/UCojOP9eTK3eFUq7gVnYGpHg">📺 Ma chaîne YouTube 📺</a>
   <br>
-  <a href="Soon...">💬 Mon serveur Discord | discord.gg/plague 💬</a>
+  <a href="Soon...">💬 Mon serveur Discord | Soon... 💬</a>
   <br>
-  <a href="Soon...">☢ Mon Bot Discord ☢</a>
+  <a href="Soon...">☢ Mon Bot Discord ☢ | Soon... 💬</a>
   <br>
 </p>
 
