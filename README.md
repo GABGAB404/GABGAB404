@@ -18,8 +18,6 @@
   <br>
   <a href="https://github.com/GABGAB404">🌍 Mon site Web en cours de Développement 🌍</a>
   <br>
-  <a href="https://billy.loca.lt/">🎨 Mon Api 🎨</a>
-  <br>
   <br>
   <a href="https://www.youtube.com/channel/UCojOP9eTK3eFUq7gVnYGpHg">📺 Ma chaîne YouTube 📺</a>
   <br>
